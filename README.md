@@ -4,7 +4,6 @@
 
 ---
 
-![LinkedIn Profile Banner](./your-linkedin-banner.png)
 
 ## 👋 About Me
 
