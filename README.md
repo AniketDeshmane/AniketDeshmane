@@ -17,7 +17,6 @@ Hi, I'm Aniket Deshmane, a passionate Software Engineer with hands-on experience
 ## 💼 Work Experience
 
 - **Software Engineer**  
-  _[Full details visible in the LinkedIn banner image]_  
   - Developed and maintained enterprise-grade applications using C# and Angular.
   - Architected cloud-native solutions and deployed services on AWS.
   - Collaborated with cross-functional teams to deliver projects on time and with high quality.
