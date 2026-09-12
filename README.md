@@ -9,5 +9,4 @@ Software Engineer (C# / Angular / AWS). I love exploring how cloud technologies 
 
 <br/>
 
-[![Aniket''s GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AniketDeshmane&show_icons=true&hide_border=true&count_private=true)](https://github.com/AniketDeshmane)
-[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AniketDeshmane&layout=compact&hide_border=true)](https://github.com/AniketDeshmane)
+[![Aniket's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AniketDeshmane&show_icons=true&hide_border=true&count_private=true)](https://github.com/AniketDeshmane) [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AniketDeshmane&layout=compact&hide_border=true)](https://github.com/AniketDeshmane)
