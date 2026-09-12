@@ -1,46 +1,14 @@
 # Aniket Deshmane
 
-**Software Engineer | C# | Angular | AWS**
+Software Engineer (C# / Angular / AWS). I love exploring how cloud technologies shape modern software development and building scalable applications.
 
----
+- ?? Contributor on [Orchard Core](https://github.com/OrchardCMS/OrchardCore) (ASP.NET framework and CMS)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketdeshmane)
 
-## 👋 About Me
+<br/>
 
-Hi, I'm Aniket Deshmane, a passionate Software Engineer with hands-on experience in designing, building, and deploying scalable applications. My expertise lies in leveraging **C#**, **Angular**, and **AWS** to solve real-world problems and deliver robust solutions. I thrive in collaborative environments and am always eager to learn new technologies and best practices. My approach combines creative problem-solving with a commitment to clean, maintainable code.
-
-> **Fun Fact:**  
-> I love exploring how cloud technologies shape modern software development—and I enjoy turning complex requirements into elegant, user-friendly solutions.
-
----
-
-## 💼 Work Experience
-
-- **Software Engineer**  
-  - Developed and maintained enterprise-grade applications using C# and Angular.
-  - Architected cloud-native solutions and deployed services on AWS.
-  - Collaborated with cross-functional teams to deliver projects on time and with high quality.
-  - Automated processes to increase productivity and reduce manual effort.
-
-*For a detailed overview of my work experience, please refer to the LinkedIn image above or connect with me on LinkedIn.*
-
----
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/aniketdeshmane/)
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** C#, JavaScript/TypeScript
-- **Frameworks:** Angular, .NET
-- **Cloud:** AWS (EC2, Lambda, S3, etc.)
-- **Tools:** Git, Docker, CI/CD
-
----
-
-## 🚀 Projects
-
-*Notable projects coming soon—stay tuned!*
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AniketDeshmane&show_icons=true&hide_border=true&count_private=true" alt="Aniket's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketDeshmane&layout=compact&hide_border=true" alt="Top Languages" height="150" />
+</div>
